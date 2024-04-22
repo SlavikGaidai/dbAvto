@@ -88,46 +88,8 @@
       "image_url": "https://n1.sdlcdn.com/imgs/k/j/b/large/AutoPowerz-Front-Head-Light-For-SDL270847579-1-4d65b.webp"
     }
   ],
-  "blogs": [
-    {
-      "id": "1",
-      "category": "exterior",
-      "category_display": "Exterior",
-      "name": "Top Ford Ranger Products For Fall",
-      "image_url": "https://img-ik.cars.co.za/ik-seo/carsimages/7663936/2019-Ford-Ranger-20D-Bi-Turbo-Raptor-4x4-Auto-Double-Cab.jpg?v=1179341415&tr=h-450%2Cw-600",
-      "data": "14 Dec"
-    },
-    {
-      "id": "2",
-      "category": "wheels and tyres",
-      "category_display": "wheels and tyres",
-      "image_url": "https://media.solvay.com/medias/domain1446/media1148/182194-u8hwjc47do.jpg",
-      "name": "headline options for 2018-2020 F150s",
-      "data": "14 Dec"
-    },
-    {
-      "id": "3",
-      "category": "interior",
-      "category_display": "Interior",
-      "image_url": "https://www.luxurylifestylemag.co.uk/wp-content/uploads/2020/05/bigstock-131693096-1.jpg",
-      "name": "Top Ford Ranger Products For Fall",
-      "data": "14 Dec"
-    }
-  ],
-  "offers": [
-    {
-      "image_url": "https://blog.bindy.com/wp-content/uploads/2022/10/shutterstock_1124428316-1024x682.jpg",
-      "name": "LIMITED OFFER REPAIR PARTS",
-      "id": "3c50"
-    },
-    {
-      "image_url": "https://di-uploads-pod14.dealerinspire.com/toyotaoforlando/uploads/2021/08/auto-repairs-1024x683.jpeg",
-      "name": "BODY PART BEST OFFER",
-      "id": "e39f"
-    }
-  ],
-  "feature_modals": [],
-  "coupons": [
+  
+   "coupons": [
     {
       "code": "masai20",
       "discount": 20,
